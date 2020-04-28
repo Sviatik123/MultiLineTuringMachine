@@ -1,0 +1,8 @@
+﻿1_ q0 -> _1 q1 RR
+1_ q1 -> 11 q1 RR
+__ q1 -> a_ q2 LH
+1_ q2 -> 1_ q2 LH
+__ q2 -> __ q0 RH
+a_ q1 -> a1 q1 RR
+a_ q2 -> a_ q2 LH
+a_ q0 -> a_ qf HH
